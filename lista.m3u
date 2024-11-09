@@ -34,7 +34,7 @@ plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a38
 plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 720p (2)
 plugin://script.module.horus?action=play&id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.postimg.cc/VsJWMPkz/MLIGS2.png" ,LaLiga Hypermotion 2 1080p
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.postimg.cc/VsJWMPkz/MLIGS2.png" ,LaLiga Hypermotion 2 1080p (1)
 plugin://script.module.horus?action=play&id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.postimg.cc/VsJWMPkz/MLIGS2.png" ,LaLiga Hypermotion 2 720p (1)
 plugin://script.module.horus?action=play&id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
@@ -206,6 +206,10 @@ plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e6
 plugin://script.module.horus?action=play&id=dfa141e0b9a34165cb7ff9b3789d6e87d2524e32
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,Tennis Channel (3)
 plugin://script.module.horus?action=play&id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,SuperTennis HD
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,SuperTennis HD
+plugin://script.module.horus?action=play&id=cadd585eac8fed32954f50bf48eabceb6cf496b1
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/6QJ2SFrx/ESP1.png" ,Eurosport 1 1080p (1)
 plugin://script.module.horus?action=play&id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/6QJ2SFrx/ESP1.png" ,Eurosport 1 1080p (2)
