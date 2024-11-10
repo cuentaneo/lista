@@ -24,9 +24,9 @@ plugin://script.module.horus?action=play&id=535394f62a810bc5aeb25be75ea5ff7d03e0
 plugin://script.module.horus?action=play&id=c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,LaLiga Inside (1)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="La Liga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,La Liga Inside (1)
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,LaLiga Inside (2)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="La Liga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,La Liga Inside (2)
 plugin://script.module.horus?action=play&id=512aeadf50d91603d15b32f1e408166536ec4ac9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (1)
 plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664c0eb
@@ -186,14 +186,14 @@ plugin://script.module.horus?action=play&id=98784fa0714190de289f42eb5b84e405df7e
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="DEPORTES" tvg-id="ESPN" tvg-logo="https://i.postimg.cc/15ckKTLH/espn-premium.png" ,ESPN Premium
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="DEPORTES" tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/BbWv2yd3/fs-premium.png" ,FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="DEPORTES" tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/BbWv2yd3/fs-premium.png" ,FOX SPORTS PREMIUM (1)
 plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="DEPORTES" tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/KzRZL4dM/Fox-sports.png" ,FOX SPORTS PREMIUM (2)
+plugin://script.module.horus?action=play&id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Fox sports 2" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Fox sports 2
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Fox sports 2" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Fox sports 2 (2)
 plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 1" tvg-logo="https://i.postimg.cc/KzRZL4dM/Fox-sports.png" ,Canal temporal (1)
-plugin://script.module.horus?action=play&id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 2" tvg-logo="https://i.postimg.cc/KzRZL4dM/Fox-sports.png" ,Canal temporal (2)
 plugin://script.module.horus?action=play&id=7cf437be950f3525e735be57c63f7824cab822c9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 3" tvg-logo="https://i.postimg.cc/KzRZL4dM/Fox-sports.png" ,Canal temporal (3)
