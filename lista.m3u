@@ -234,11 +234,3 @@ plugin://script.module.horus?action=play&id=7cf437be950f3525e735be57c63f7824cab8
 plugin://script.module.horus?action=play&id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 4" tvg-logo="https://i.postimg.cc/KzRZL4dM/Fox-sports.png" ,Canal temporal (4)
 plugin://script.module.horus?action=play&id=7cf437be950f3525e735be57c63f7824cab822c9
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 10" tvg-logo="https://i.postimg.cc/0NgYm4Qd/tele.png" ,Canal temporal (10)
-plugin://script.module.horus?action=play&id=c35577d5736b1b01113bc2a626e0b7fc366e377d
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 11" tvg-logo="https://i.postimg.cc/0NgYm4Qd/tele.png" ,Canal temporal (11)
-plugin://script.module.horus?action=play&id=3e95d9f3a1c19fe4c1a3052d27e4f1b609962e21
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 12" tvg-logo="https://i.postimg.cc/0NgYm4Qd/tele.png" ,Canal temporal (12)
-plugin://script.module.horus?action=play&id=8be20e0660b4cbe38af7bb9e1bd810430d315e18
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Canal temporal 13" tvg-logo="https://i.postimg.cc/0NgYm4Qd/tele.png" ,Canal temporal (13)
-plugin://script.module.horus?action=play&id=b5d236af597ca079aece9d43b985f6e6f663eb91
