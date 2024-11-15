@@ -4,6 +4,10 @@ plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a7
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3)
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (4)
+plugin://script.module.horus?action=play&id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (5)
+plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 720p (1)
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p
@@ -84,16 +88,14 @@ plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16d
 plugin://script.module.horus?action=play&id=4e83f23945ab3e43982045f88ec31daaa4683102
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 4 HD" tvg-logo="https://i.postimg.cc/HxD87RZk/DAZN4.png" ,DAZN 4 1080p (2)
 plugin://script.module.horus?action=play&id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (1)
 plugin://script.module.horus?action=play&id=0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (2)
 plugin://script.module.horus?action=play&id=775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (3)
-plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (4)
-plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
+plugin://script.module.horus?action=play&id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 720p (1)
 plugin://script.module.horus?action=play&id=8edb264520569b2280c5e86b2dc734e120032903
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 720p (2)
@@ -166,8 +168,10 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 720p
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (1)
 plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (2)
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 720p
 plugin://script.module.horus?action=play&id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/VvBbBgrP/dep2.png" ,Movistar Deportes 2 1080p
