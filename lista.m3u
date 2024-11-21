@@ -172,7 +172,7 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 720p
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport F1" tvg-logo="https://i.postimg.cc/XvXNt4XV/Sky-Sport-F1.png" ,Sky Sport F1 ALEMANIA
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport F1" tvg-logo="https://i.postimg.cc/XvXNt4XV/Sky-Sport-F1.png" ,Sky Sport F1 ALEMANIA
 plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (1)
 plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -236,19 +236,21 @@ plugin://script.module.horus?action=play&id=6994af284ecab2996f9b140ef44b8da8bfee
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Fox sports 2" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Fox sports 2 (2)
 plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport 1" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport 1 (ALEMANIA)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport 1" tvg-logo="https://i.postimg.cc/pLLnXNyS/Sky-Sport-1.png" ,Sky Sport 1 (ALEMANIA)
 plugin://script.module.horus?action=play&id=7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport 2" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport 2 (ALEMANIA)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport 2" tvg-logo="https://i.postimg.cc/02wLY4bC/Sky-Sport-2.png" ,Sky Sport 2 (ALEMANIA)
 plugin://script.module.horus?action=play&id=fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport News" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport News (ALEMANIA)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport News" tvg-logo="https://i.postimg.cc/J0BdQy4h/Sky-Sport-News.png" ,Sky Sport News (ALEMANIA)
 plugin://script.module.horus?action=play&id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport Arena" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport Arena (REINO UNIDO)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Arena" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Arena (REINO UNIDO)
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport Cricket" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport Cricket (REINO UNIDO)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Cricket" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Cricket (REINO UNIDO)
 plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport Football" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport Football (REINO UNIDO)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Football" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Football (REINO UNIDO)
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="DEPORTES" tvg-id="Sky Sport Main Event" tvg-logo="https://i.postimg.cc/7h6yGNL4/fox-sports-2.png" ,Sky Sport Main Event (REINO UNIDO)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Main Event" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Main Event (REINO UNIDO)
+plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Premier Sports 1" tvg-logo="https://i.postimg.cc/kXvLYbvV/Premier-Sports-1.png" ,Premier Sports 1 (REINO UNIDO)
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,Tennis Channel (1)
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
