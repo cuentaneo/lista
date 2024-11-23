@@ -253,7 +253,7 @@ plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Main Event" tvg-logo="https://i.postimg.cc/D0n3mdcT/Sky-Sport-Main-Event.png" ,Sky Sport Main Event (REINO UNIDO)
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Premier Sports 1" tvg-logo="https://i.postimg.cc/kXvLYbvV/Premier-Sports-1.png" ,Premier Sports 1 (REINO UNIDO)
-plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,Tennis Channel (1)
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,Tennis Channel (2)
