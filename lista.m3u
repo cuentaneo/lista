@@ -32,8 +32,10 @@ plugin://script.module.horus?action=play&id=835639b89db00cc0d94660da3c10b6e38bfb
 plugin://script.module.horus?action=play&id=eee6144058d6106c243cbde774b05bff4a704a86
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/ZndHHVF3/MLIG4.png" ,Movistar LaLiga 4 1080p (2)
 plugin://script.module.horus?action=play&id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (1)
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (2)
+plugin://script.module.horus?action=play&id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="La Liga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,Canal M. La Liga o La Liga Inside (1)
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="DEPORTES" tvg-id="La Liga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,Canal M. La Liga o La Liga Inside (2)
@@ -160,18 +162,18 @@ plugin://script.module.horus?action=play&id=33369549c635dabdb78b95c478c21fcc9e4e
 plugin://script.module.horus?action=play&id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://i.postimg.cc/L8GQwHC6/CHAP13.png" ,Movistar Liga de Campeones 13 720p (2)
 plugin://script.module.horus?action=play&id=60296c246e3596f334903fefd48cfaa724a5053b
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (1)
-plugin://script.module.horus?action=play&id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (2)
-plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (3)
-plugin://script.module.horus?action=play&id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p
+plugin://script.module.horus?action=play&id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 720p
+plugin://script.module.horus?action=play&id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (1)
-plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
+plugin://script.module.horus?action=play&id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (2)
-plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
+plugin://script.module.horus?action=play&id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (3)
+plugin://script.module.horus?action=play&id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 720p
-plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
+plugin://script.module.horus?action=play&id=268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport F1" tvg-logo="https://i.postimg.cc/XvXNt4XV/Sky-Sport-F1.png" ,Sky Sport F1 ALEMANIA
 plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (1)
@@ -199,7 +201,7 @@ plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe6
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/FHmXBZYn/VAMOSD.png" ,Movistar Vamos 720p
 plugin://script.module.horus?action=play&id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://i.postimg.cc/nVvdPtqp/MELLAV.png" ,Movistar Vamos Ellas 1080p
-plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+plugin://script.module.horus?action=play&id=d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga Femenina 1
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga Femenina 2
