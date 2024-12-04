@@ -18,10 +18,8 @@ plugin://script.module.horus?action=play&id=f31a586422c9244196c810c84b6c85da3503
 plugin://script.module.horus?action=play&id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/Xv30GgK0/MLIG3.png" ,Movistar LaLiga 3 720p
 plugin://script.module.horus?action=play&id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/ZndHHVF3/MLIG4.png" ,Movistar LaLiga 4 1080p (1)
-plugin://script.module.horus?action=play&id=eee6144058d6106c243cbde774b05bff4a704a86
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/ZndHHVF3/MLIG4.png" ,Movistar LaLiga 4 1080p (2)
-plugin://script.module.horus?action=play&id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/ZndHHVF3/MLIG4.png" ,Movistar LaLiga 4 1080p
+plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (1)
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (2)
@@ -32,7 +30,7 @@ plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d4
 plugin://script.module.horus?action=play&id=512aeadf50d91603d15b32f1e408166536ec4ac9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p
 plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 720p (1)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 720p
 plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.postimg.cc/VsJWMPkz/MLIGS2.png" ,LaLiga Hypermotion 2 1080p
 plugin://script.module.horus?action=play&id=0cfdfde1b70623b8c210b0f7301be2a87456481d
@@ -196,16 +194,36 @@ plugin://script.module.horus?action=play&id=7c12288663069a12aff58f3f62e8ea47ab78
 plugin://script.module.horus?action=play&id=fc9f1f580da8f641a5991d44b399982a3a069f69
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport News" tvg-logo="https://i.postimg.cc/J0BdQy4h/Sky-Sport-News.png" ,Sky Sport News (ALEMANIA)
 plugin://script.module.horus?action=play&id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Arena" tvg-logo="https://i.postimg.cc/ydqHCzgW/Sky-Sports-Arena.png" ,Sky Sport Arena (REINO UNIDO)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Arena" tvg-logo="https://i.postimg.cc/ydqHCzgW/Sky-Sports-Arena.png" ,Sky Sport Arena (REINO UNIDO) (1)
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Arena" tvg-logo="https://i.postimg.cc/ydqHCzgW/Sky-Sports-Arena.png" ,Sky Sport Arena (REINO UNIDO) (2)
+plugin://script.module.horus?action=play&id=37796ca47026bc190c7dc26827c0dfb6b61d137b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Cricket" tvg-logo="https://i.postimg.cc/zBn1JPK7/Sky-Sport-Cricket.png" ,Sky Sport Cricket (REINO UNIDO)
 plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Football" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Football (REINO UNIDO)
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Football" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Football (REINO UNIDO) (1)
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Football" tvg-logo="https://i.postimg.cc/yNpHQZBh/Sky-Sport-Football.png" ,Sky Sport Football (REINO UNIDO) (2)
+plugin://script.module.horus?action=play&id=54de746f7823812312b4000422618465f7d58f87
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Sky Sport Main Event" tvg-logo="https://i.postimg.cc/D0n3mdcT/Sky-Sport-Main-Event.png" ,Sky Sport Main Event (REINO UNIDO)
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Premier Sports 1" tvg-logo="https://i.postimg.cc/kXvLYbvV/Premier-Sports-1.png" ,Premier Sports 1 (REINO UNIDO)
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Sky Sport Bundesliga 1" tvg-logo="https://i.postimg.cc/8cpschTD/Sky-Sport-Bundesliga-1.png" ,Sky Sport Bundesliga 1 (ALEMÁN)
+plugin://script.module.horus?action=play&id=dfbb321c7ee0d3309a03770fea07c67434182acc
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Fast Sports" tvg-logo="https://i.postimg.cc/zX3XQDBd/fast.jpg" ,Fast Sports
+plugin://script.module.horus?action=play&id=a20288bb15aa758c9e599c9a4a182874acfde469
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Nova Sport 1 HD" tvg-logo="https://i.postimg.cc/4dJXQsqQ/nova-1.png" ,Nova Sport 1 HD
+plugin://script.module.horus?action=play&id=59573e6ce51b07e511af18760e0d2b7e607e14f3
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Nova Sport 2 HD" tvg-logo="https://i.postimg.cc/7LNk6jhG/nova-2.png" ,Nova Sport 2 HD
+plugin://script.module.horus?action=play&id=5388b411d2f1e0acc511d0bad79f2fa57db124f2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="One Golf HD" tvg-logo="https://i.postimg.cc/qBFdzsJL/onegolf.png" ,One Golf HD
+plugin://script.module.horus?action=play&id=6a2b510187404653f6405cd5c7c9d967347b3220
+#EXTINF:-1 group-title="DEPORTES" tvg-id="NBA TV USA" tvg-logo="https://i.postimg.cc/kXvLYbvV/Premier-Sports-1.png" ,NBA TV USA (EE.UU.)
+plugin://script.module.horus?action=play&id=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UFC" tvg-logo="https://i.postimg.cc/jdkCqwm0/ufc.jpg" ,UFC (EE.UU.)
+plugin://script.module.horus?action=play&id=626fc7cf70680d1d77b4b5293be94f63c910ee92
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Fight Box" tvg-logo="https://i.postimg.cc/YSBrj1xV/fight.jpg" ,Fight Box
+plugin://script.module.horus?action=play&id=df05601da02b60c53436ec68b761bcfecd4ad9a7
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,Tennis Channel (1)
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/05YsdFQJ/tennis.png" ,Tennis Channel (2)
