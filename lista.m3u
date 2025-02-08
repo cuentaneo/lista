@@ -12,6 +12,8 @@ plugin://script.module.horus?action=play&id=4f416d74e9feb1812f7d10c637e46d40ebab
 plugin://script.module.horus?action=play&id=f5a769b1d4d97673dcaae415bf197706a8056428
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (7)
 plugin://script.module.horus?action=play&id=b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (8)
+plugin://script.module.horus?action=play&id=7fc274f1bccb3d755c8e0760459bd81056eb998f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 720p (1)
 plugin://script.module.horus?action=play&id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 720p (2)
