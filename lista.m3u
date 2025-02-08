@@ -312,6 +312,12 @@ plugin://script.module.horus?action=play&id=641e0d72b597fbeab409019f2f2f3655acd2
 plugin://script.module.horus?action=play&id=ef21beeb62a9e431ef5f4acb83b4687c8d90e8b0
 #EXTINF:-1 group-title="DEPORTES" tvg-id="One Golf HD" tvg-logo="https://i.postimg.cc/qBFdzsJL/onegolf.png" ,One Golf HD
 plugin://script.module.horus?action=play&id=60e1595db53c6af5339b50ad21d957ad9a44a311
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UFC TV" tvg-logo="https://i.postimg.cc/jdkCqwm0/ufc.jpg" ,UFC TV (EE.UU.)
+plugin://script.module.horus?action=c73e3eefe1f4a90fd7495f8be2d5f772d758713b
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UFC Fight Pass" tvg-logo="https://i.postimg.cc/jdkCqwm0/ufc.jpg" ,UFC Figth Pass
+plugin://script.module.horus?action=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UFC 24/7" tvg-logo="https://i.postimg.cc/jdkCqwm0/ufc.jpg" ,UFC 24/7
+plugin://script.module.horus?action=008722562de872871b879d9d0cab4fb4b79784b2
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UFC" tvg-logo="https://i.postimg.cc/jdkCqwm0/ufc.jpg" ,UFC (EE.UU.)
 plugin://script.module.horus?action=play&id=2d4b53402ff6158ec5aa4b38a80a773b5e00da0d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Fight Box" tvg-logo="https://i.postimg.cc/YSBrj1xV/fight.jpg" ,Fight Box
