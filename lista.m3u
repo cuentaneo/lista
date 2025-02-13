@@ -34,14 +34,10 @@ plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180a
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (2)
 plugin://script.module.horus?action=play&id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (3)
-plugin://script.module.horus?action=play&id=5834660ff7ae10f0514dc23c241c054dc0272d01
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (4)
-plugin://script.module.horus?action=play&id=954b2cb573313690f2a6d6a2e70102fb49ace952
-#EXTINF:-1 group-title="DEPORTES" tvg-id="La Liga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,Canal M. La Liga o La Liga Inside (1)
-plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="DEPORTES" tvg-id="La Liga Inside" tvg-logo="https://i.postimg.cc/BQWSzT8Y/laliga-inside.jpg" ,Canal M. La Liga o La Liga Inside (2)
-plugin://script.module.horus?action=play&id=512aeadf50d91603d15b32f1e408166536ec4ac9
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 BAR ESPAÑA
+plugin://script.module.horus?action=play&id=0908f5dd264ded10b638636cb7479409cfee0813
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 2 BAR ESPAÑA
+plugin://script.module.horus?action=play&id=17dc260a6b6c176183807e659817b647ddca465b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (1)
 plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (2)
@@ -110,10 +106,6 @@ plugin://script.module.horus?action=play&id=4e83f23945ab3e43982045f88ec31daaa468
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 4 HD" tvg-logo="https://i.postimg.cc/HxD87RZk/DAZN4.png" ,DAZN 4 1080p (3)
 plugin://script.module.horus?action=play&id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
-#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 BAR ESPAÑA
-plugin://script.module.horus?action=play&id=0908f5dd264ded10b638636cb7479409cfee0813
-#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 2 BAR ESPAÑA
-plugin://script.module.horus?action=play&id=17dc260a6b6c176183807e659817b647ddca465b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 ALEMANIA" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 ALEMANIA (1)
 plugin://script.module.horus?action=play&id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 ALEMANIA" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 ALEMANIA (2)
