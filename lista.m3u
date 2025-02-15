@@ -34,7 +34,9 @@ plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180a
 plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (2)
 plugin://script.module.horus?action=play&id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 BAR ESPAÑA
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 BAR ESPAÑA (1)
+plugin://script.module.horus?action=play&id=b05e54ad63a1df17a75366f21284d96baa697998
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 BAR ESPAÑA (2)
 plugin://script.module.horus?action=play&id=0908f5dd264ded10b638636cb7479409cfee0813
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 2 BAR ESPAÑA
 plugin://script.module.horus?action=play&id=17dc260a6b6c176183807e659817b647ddca465b
@@ -59,14 +61,18 @@ plugin://script.module.horus?action=play&id=110d441ddc9713a7452588770d2bc8550467
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga 1080p (2)
 plugin://script.module.horus?action=play&id=ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga 1080p (3)
-plugin://script.module.horus?action=play&id=28c8115681bf6e4565cb5e987530c2f606cc561f
+plugin://script.module.horus?action=play&id=cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga 1080p (4)
+plugin://script.module.horus?action=play&id=28c8115681bf6e4565cb5e987530c2f606cc561f
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga 1080p (5)
 plugin://script.module.horus?action=play&id=dad36d37fa74b94e345bb014d82d820e54fb69d8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/MpbwtRHm/DAZNLI.png" ,DAZN LaLiga 720p (1)
 plugin://script.module.horus?action=play&id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/GpNHnVwj/DAZNL2.png" ,DAZN LaLiga 2 1080p (1)
 plugin://script.module.horus?action=play&id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/GpNHnVwj/DAZNL2.png" ,DAZN LaLiga 2 1080p (2)
+plugin://script.module.horus?action=play&id=31fe946682dfc753edeabe8f3f7117fd774530cc
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/GpNHnVwj/DAZNL2.png" ,DAZN LaLiga 2 1080p (3)
 plugin://script.module.horus?action=play&id=c79b272e20f31d1be9103f582e87209a06a63927
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/GpNHnVwj/DAZNL2.png" ,DAZN LaLiga 2 720p (1)
 plugin://script.module.horus?action=play&id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
@@ -81,7 +87,11 @@ plugin://script.module.horus?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 HD" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 1080p (3)
 plugin://script.module.horus?action=play&id=e6121426f7d8007ae9de8e782f05d91e9b27993d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 HD" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 1080p (4)
+plugin://script.module.horus?action=play&id=03de691c3fea9ea7b6abefdc88a86f3a47b455f4
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 HD" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 1080p (5)
 plugin://script.module.horus?action=play&id=e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 HD" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 1080p (6)
+plugin://script.module.horus?action=play&id=b05e54ad63a1df17a75366f21284d96baa697998
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 HD" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 720p
 plugin://script.module.horus?action=play&id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 HD" tvg-logo="https://i.postimg.cc/pThkPw9V/dazn2.png" ,DAZN 2 1080p (1)
@@ -89,6 +99,8 @@ plugin://script.module.horus?action=play&id=ca923c9873fd206a41c1e83ff8fc40e3cf32
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 HD" tvg-logo="https://i.postimg.cc/pThkPw9V/dazn2.png" ,DAZN 2 1080p (2)
 plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 HD" tvg-logo="https://i.postimg.cc/pThkPw9V/dazn2.png" ,DAZN 2 1080p (3)
+plugin://script.module.horus?action=play&id=90c50f925b84b6dfd0827861c492ab42c3f1703d
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 HD" tvg-logo="https://i.postimg.cc/pThkPw9V/dazn2.png" ,DAZN 2 1080p (4)
 plugin://script.module.horus?action=play&id=b056dfc53c18de02caeff4435ddb6b36bfb7b031
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 HD" tvg-logo="https://i.postimg.cc/pThkPw9V/dazn2.png" ,DAZN 2 720p (1)
 plugin://script.module.horus?action=play&id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -99,12 +111,16 @@ plugin://script.module.horus?action=play&id=19cd05c7ae26f22737ae5728b571ca36abd8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 3 HD" tvg-logo="https://i.postimg.cc/QMBc7pj0/DAZN3.png" ,DAZN 3 1080p (2)
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 3 HD" tvg-logo="https://i.postimg.cc/QMBc7pj0/DAZN3.png" ,DAZN 3 1080p (3)
+plugin://script.module.horus?action=play&id=3e3f801d03eaf7df527617eaa4c2c5e26dfc9de7
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 3 HD" tvg-logo="https://i.postimg.cc/QMBc7pj0/DAZN3.png" ,DAZN 3 1080p (4)
 plugin://script.module.horus?action=play&id=b11dd020fc6e89b39b69c1f3bef032be72286e72
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 4 HD" tvg-logo="https://i.postimg.cc/HxD87RZk/DAZN4.png" ,DAZN 4 1080p (1)
 plugin://script.module.horus?action=play&id=4e83f23945ab3e43982045f88ec31daaa4683102
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 4 HD" tvg-logo="https://i.postimg.cc/HxD87RZk/DAZN4.png" ,DAZN 4 1080p (2)
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 4 HD" tvg-logo="https://i.postimg.cc/HxD87RZk/DAZN4.png" ,DAZN 4 1080p (3)
+plugin://script.module.horus?action=play&id=846a1ff238ee87a09785f1c053ccd2e4f57267b1
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 4 HD" tvg-logo="https://i.postimg.cc/HxD87RZk/DAZN4.png" ,DAZN 4 1080p (4)
 plugin://script.module.horus?action=play&id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 1 ALEMANIA" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 1 ALEMANIA (1)
 plugin://script.module.horus?action=play&id=897e73c9d578848f596585314ecb9ae067c0e229
@@ -125,12 +141,16 @@ plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (4)
 plugin://script.module.horus?action=play&id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (5)
-plugin://script.module.horus?action=play&id=4e3302991c482dff2e10de69795fa5aa87a61ae7
+plugin://script.module.horus?action=play&id=769baa913100d8147418bcc4b7d9b6d05f551494
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (6)
-plugin://script.module.horus?action=play&id=7cdf501671e3a34e56f1686471ccd2f587cade7c
+plugin://script.module.horus?action=play&id=ce2b0f2ca503d4fa66ac9325c00e279348551008
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (7)
-plugin://script.module.horus?action=play&id=38d0b187d3cf396695bbb2166a09f57736276e2e
+plugin://script.module.horus?action=play&id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (8)
+plugin://script.module.horus?action=play&id=7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (9)
+plugin://script.module.horus?action=play&id=38d0b187d3cf396695bbb2166a09f57736276e2e
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (10)
 plugin://script.module.horus?action=play&id=c9c6e562d63019f283415540827c7bce5704f54d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 720p (1)
 plugin://script.module.horus?action=play&id=8edb264520569b2280c5e86b2dc734e120032903
@@ -139,24 +159,36 @@ plugin://script.module.horus?action=play&id=c070cdb701fc46bb79d17568d99fc6462044
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/jSqSBK9f/camp2.png" ,Movistar Liga de Campeones 2 1080p (2)
 plugin://script.module.horus?action=play&id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/jSqSBK9f/camp2.png" ,Movistar Liga de Campeones 2 1080p (3)
-plugin://script.module.horus?action=play&id=1b16e6969c9170273cf7e08abe0b919db3e9351f
+plugin://script.module.horus?action=play&id=b4870954d92d55f897625e14644bfae496190e47
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/jSqSBK9f/camp2.png" ,Movistar Liga de Campeones 2 1080p (4)
+plugin://script.module.horus?action=play&id=fc26030c4d3983435872f1286fed5ee7a8bcd9ac
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/jSqSBK9f/camp2.png" ,Movistar Liga de Campeones 2 1080p (5)
+plugin://script.module.horus?action=play&id=1b16e6969c9170273cf7e08abe0b919db3e9351f
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/jSqSBK9f/camp2.png" ,Movistar Liga de Campeones 2 1080p (6)
 plugin://script.module.horus?action=play&id=8e4ab34c7fe491831734bc677b7bf91555653eb3
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/jSqSBK9f/camp2.png" ,Movistar Liga de Campeones 2 720p
 plugin://script.module.horus?action=play&id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://i.postimg.cc/Qdvv1JpM/camp3.png" ,Movistar Liga de Campeones 3 1080p (1)
 plugin://script.module.horus?action=play&id=3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://i.postimg.cc/Qdvv1JpM/camp3.png" ,Movistar Liga de Campeones 3 1080p (2)
+plugin://script.module.horus?action=play&id=4b1b4f556f2dfc642ef9efd688a845c928f09132
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://i.postimg.cc/Qdvv1JpM/camp3.png" ,Movistar Liga de Campeones 3 1080p (3)
+plugin://script.module.horus?action=play&id=57e4a8ad0e0fae14cfd9e3c8ddf351ac5e25d69a
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://i.postimg.cc/Qdvv1JpM/camp3.png" ,Movistar Liga de Campeones 3 1080p (4)
 plugin://script.module.horus?action=play&id=e42984ac6529407462f92201af95c01db8988368
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://i.postimg.cc/Qdvv1JpM/camp3.png" ,Movistar Liga de Campeones 3 720p
 plugin://script.module.horus?action=play&id=0b348cc1ae499e810729661878764a0fab88ab69
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.postimg.cc/8C8njPSJ/camp4.png" ,Movistar Liga de Campeones 4 1080p (1)
 plugin://script.module.horus?action=play&id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.postimg.cc/8C8njPSJ/camp4.png" ,Movistar Liga de Campeones 4 1080p (2)
+plugin://script.module.horus?action=play&id=6c226f2ca072df049af77c46430e69e8278a0be7
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.postimg.cc/8C8njPSJ/camp4.png" ,Movistar Liga de Campeones 4 1080p (1)
 plugin://script.module.horus?action=play&id=01152274037c5f7155489e0a977cbde71a61290c
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://i.postimg.cc/sgF5dBzL/camp5.png" ,Movistar Liga de Campeones 5 1080p (1)
 plugin://script.module.horus?action=play&id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://i.postimg.cc/sgF5dBzL/camp5.png" ,Movistar Liga de Campeones 5 1080p (2)
+plugin://script.module.horus?action=play&id=c0b6716e77dee0083cfdcd16617682322ff9dd7b
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://i.postimg.cc/sgF5dBzL/camp5.png" ,Movistar Liga de Campeones 5 1080p (3)
 plugin://script.module.horus?action=play&id=cc910aee690f70190b04920d61e39da5a6d0a057
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://i.postimg.cc/RZGVLDXR/camp6.png" ,Movistar Liga de Campeones 6 1080p (1)
 plugin://script.module.horus?action=play&id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
@@ -198,8 +230,16 @@ plugin://script.module.horus?action=play&id=bb8506403e19f80ab66e431f2a4c74089a90
 plugin://script.module.horus?action=play&id=5a412fd44a1f46f3446988ddeed658d861dd6b70
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones 17" tvg-logo="https://i.postimg.cc/L8GQwHC6/CHAP13.png" ,Movistar Liga de Campeones 17 720p
 plugin://script.module.horus?action=play&id=be4381d1d5203fc0c4879a097277bd7683235650
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (1)
 plugin://script.module.horus?action=play&id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (2)
+plugin://script.module.horus?action=play&id=e783202a17ed86e9ce2e8cb4b802288b4ccf38e8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (3)
+plugin://script.module.horus?action=play&id=0d7874cae74e394dac877d1621ec12537c67e4b0
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (4)
+plugin://script.module.horus?action=play&id=894afd347da576af7bbfc0b986485581b8df151b
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 1080p (5)
+plugin://script.module.horus?action=play&id=6118cada4cbe7650eeb21d170e184c26a4cdc808
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.postimg.cc/Gh0NTydV/MCOPA.png" ,Movistar Copa del Rey 720p
 plugin://script.module.horus?action=play&id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (1)
@@ -209,10 +249,12 @@ plugin://script.module.horus?action=play&id=2c6e4c897661e6b0257bfe931b66d20b2ec7
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (3)
 plugin://script.module.horus?action=play&id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (4)
-plugin://script.module.horus?action=play&id=1b8069f8c8cb18d565c1c776b6620bbed32b789c
+plugin://script.module.horus?action=play&id=505c4130005386ca0854500fab2bae25ca6aa53f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (5)
-plugin://script.module.horus?action=play&id=e41352c657506cfe6eecc4f17982f69275f1660b
+plugin://script.module.horus?action=play&id=1b8069f8c8cb18d565c1c776b6620bbed32b789c
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (6)
+plugin://script.module.horus?action=play&id=e41352c657506cfe6eecc4f17982f69275f1660b
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 1080p (7)
 plugin://script.module.horus?action=play&id=37875b8c4e71b3daca16e03070968e0f6344ba4c
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/HnL6frQK/MVF1.png" ,DAZN F1 720p
 plugin://script.module.horus?action=play&id=268289e7a3c5209960b53b4d43c8c65fab294b85
@@ -223,12 +265,16 @@ plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (2)
 plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (3)
+plugin://script.module.horus?action=play&id=37d450c61d992cc4f4634cbd51ccda710c126de2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 1080p (4)
 plugin://script.module.horus?action=play&id=ce65932b1113ec32c270050786d7702897150d74
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/8zyM0Zy1/dep1.png" ,Movistar Deportes 720p
 plugin://script.module.horus?action=play&id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/VvBbBgrP/dep2.png" ,Movistar Deportes 2 1080p (1)
 plugin://script.module.horus?action=play&id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/VvBbBgrP/dep2.png" ,Movistar Deportes 2 1080p (2)
+plugin://script.module.horus?action=play&id=0a49fa5dcd8c2f764f48236d7bb3f50828f99c33
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/VvBbBgrP/dep2.png" ,Movistar Deportes 2 1080p (3)
 plugin://script.module.horus?action=play&id=43931a2672086891ce4f6d6b4128e005e8038959
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes 3" tvg-logo="https://i.postimg.cc/brTs2vWz/dep3.png" ,Movistar Deportes 3 1080p (1)
 plugin://script.module.horus?action=play&id=571bff4d12b1791eb99dbf20bec38e630693a6a3
@@ -259,8 +305,10 @@ plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe6
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/FHmXBZYn/VAMOSD.png" ,Movistar Vamos 1080p (2)
 plugin://script.module.horus?action=play&id=8c1e181e99425c729cdf12c21fccaf07ea106a49
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/FHmXBZYn/VAMOSD.png" ,Movistar Vamos 1080p (3)
-plugin://script.module.horus?action=play&id=7ea69506cdde10da9d85a2414310a7e5afcdba19
+plugin://script.module.horus?action=play&id=7628ebd71c7f6b78d5a91a324bde49ef8317a49f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/FHmXBZYn/VAMOSD.png" ,Movistar Vamos 1080p (4)
+plugin://script.module.horus?action=play&id=7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/FHmXBZYn/VAMOSD.png" ,Movistar Vamos 1080p (5)
 plugin://script.module.horus?action=play&id=472b73d3c63fe53c3a95644f20aab65b31a6e506
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/FHmXBZYn/VAMOSD.png" ,Movistar Vamos 720p
 plugin://script.module.horus?action=play&id=12ba546d229bc39f01c3c18988a034b215fe6adb
@@ -330,6 +378,8 @@ plugin://script.module.horus?action=play&id=59573e6ce51b07e511af18760e0d2b7e607e
 plugin://script.module.horus?action=play&id=641e0d72b597fbeab409019f2f2f3655acd2525d
 #EXTINF:-1 group-title="DEPORTES" tvg-id="Fast Sports" tvg-logo="https://i.postimg.cc/zX3XQDBd/fast.jpg" ,Fast Sports
 plugin://script.module.horus?action=play&id=ef21beeb62a9e431ef5f4acb83b4687c8d90e8b0
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DE | Rally TV" tvg-logo="https://i.postimg.cc/c4nSb0LV/rally.jpg" ,Rally TV
+plugin://script.module.horus?action=play&id=1a9085a7b8aa402f317fb86f7243f3736770b325
 #EXTINF:-1 group-title="DEPORTES" tvg-id="One Golf HD" tvg-logo="https://i.postimg.cc/qBFdzsJL/onegolf.png" ,One Golf HD
 plugin://script.module.horus?action=play&id=60e1595db53c6af5339b50ad21d957ad9a44a311
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UFC TV" tvg-logo="https://i.postimg.cc/jdkCqwm0/ufc.jpg" ,UFC TV
