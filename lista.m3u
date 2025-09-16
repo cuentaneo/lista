@@ -1,24 +1,24 @@
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (1) Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (1) Elcano
 plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (2) Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (2) Elcano
 plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) Elcano
 plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) New Loop
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) New Loop
 plugin://script.module.horus?action=play&id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (4) New Loop
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (4) New Loop
 plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 720p (1) Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 720p (1) Elcano
 plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Elcano
 plugin://script.module.horus?action=play&id=51b363b1c4d42724e05240ad068ad219df8042ec
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 720p Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 720p Elcano
 plugin://script.module.horus?action=play&id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/Xv30GgK0/MLIG3.png" ,Movistar LaLiga 3 1080p (1) Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 3 HD" tvg-logo="https://i.postimg.cc/Xv30GgK0/MLIG3.png" ,Movistar LaLiga 3 1080p (1) Elcano
 plugin://script.module.horus?action=play&id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/Xv30GgK0/MLIG3.png" ,Movistar LaLiga 3 720p Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 3 HD" tvg-logo="https://i.postimg.cc/Xv30GgK0/MLIG3.png" ,Movistar LaLiga 3 720p Elcano
 plugin://script.module.horus?action=play&id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/ZndHHVF3/MLIG4.png" ,Movistar LaLiga 4 1080p Elcano
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 4" tvg-logo="https://i.postimg.cc/ZndHHVF3/MLIG4.png" ,Movistar LaLiga 4 1080p Elcano
 plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/sg4YyVw4/ligatvbar.png" ,LaLiga TV bar 1080p (1) Elcano
 plugin://script.module.horus?action=play&id=94d34491106e00394835c8cb68aa94481339b53f
