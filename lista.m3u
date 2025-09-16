@@ -118,6 +118,10 @@ plugin://script.module.horus?action=play&id=cb18d080d81f7fccf26b7723ce6a5d86d312
 plugin://script.module.horus?action=play&id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN BUNDESLIGA 3" tvg-logo="https://i.postimg.cc/QMBc7pj0/DAZN3.png" ,DAZN BUNDESLIGA 3 (1) New Era
 plugin://script.module.horus?action=play&id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/50qnMLKV/primera-fed.png" ,Primera Federación (1) New Era
+plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/50qnMLKV/primera-fed.png" ,Primera Federación (2) New Era VI
+plugin://script.module.horus?action=play&id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (1) Elcano
 plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/sXYmBpJb/camp1.png" ,Movistar Liga de Campeones 1080p (2) Elcano
