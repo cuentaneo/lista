@@ -1,25 +1,35 @@
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (1) Sport TV
 plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (1) Elcano
-plugin://script.module.horus?action=play&id=f863873de9f7b2996dde19a0657dd89835af3007
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (2) Elcano
 plugin://script.module.horus?action=play&id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (2) Elcano
+plugin://script.module.horus?action=play&id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) Elcano
-plugin://script.module.horus?action=play&id=0febfb5cac3384f487d55c559bbfc877db2d0357
+plugin://script.module.horus?action=play&id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) Elcano
+plugin://script.module.horus?action=play&id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) Elcano
+plugin://script.module.horus?action=play&id=a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (3) Elcano
+plugin://script.module.horus?action=play&id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (5) New Era VI
 plugin://script.module.horus?action=play&id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (7) New Era
 plugin://script.module.horus?action=play&id=af458073c3096293a4dea9f369d4f308e7125bd6
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (7) New Era VI
-plugin://script.module.horus?action=play&id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (7) New Era II
+plugin://script.module.horus?action=play&id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (8) New Loop
 plugin://script.module.horus?action=play&id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 1080p (9) New Loop
 plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://i.postimg.cc/RZyP6Cc5/MLIGA.png" ,Movistar LaLiga 720p (1) Elcano
 plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Sport TV
+plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe4
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Elcano
-plugin://script.module.horus?action=play&id=b45cfe568e106a7df65c950805d6f123c989ce84
+plugin://script.module.horus?action=play&id=d16a9b50042cb9d6e648cae3b1472f655c4def61
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Elcano
+plugin://script.module.horus?action=play&id=67966d205968de9cf95dcffe3b2ff6888b106634
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (2) New Era
 plugin://script.module.horus?action=play&id=caa631e8850e3eb5e7c039063dd8a339ccef1176
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (3) Sport TV
@@ -52,16 +62,18 @@ plugin://script.module.horus?action=play&id=448a647ba8cd8885588572d609ce02b96123
 plugin://script.module.horus?action=play&id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZN 2 BAR" tvg-logo="https://i.postimg.cc/SNWT2bgJ/DAZN1.png" ,DAZN 2 BAR ESPAÑA (2) New Era
 plugin://script.module.horus?action=play&id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (1) New Era VI
-plugin://script.module.horus?action=play&id=fc129b39c253b887563c3f0dce5fca7e699c3047
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (1) New Era
+plugin://script.module.horus?action=play&id=ee8ce83c44dc9b1e331672e2a0166e2830b00040
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (2) Elcano
-plugin://script.module.horus?action=play&id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (3) Elcano
-plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+plugin://script.module.horus?action=play&id=2c54a4def58f41fc0d2163450a63f12955b656aa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (4) Elcano
-plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (5) New Era
-plugin://script.module.horus?action=play&id=58b1c4b8cb65d648505b035a04e879672fcd8e3f
+plugin://script.module.horus?action=play&id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (5) New Loop
+plugin://script.module.horus?action=play&id=232aaa6fff233be7c09221f56253bd921b127bb0
+#EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (6) New Era VI
+plugin://script.module.horus?action=play&id=fc129b39c253b887563c3f0dce5fca7e699c3047
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 720p Elcano
 plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/R0Z0HGdH/MLIGS.png" ,LaLiga Hypermotion 1080p (4) New Era
@@ -77,7 +89,7 @@ plugin://script.module.horus?action=play&id=8a05571c0c8fe53f160fb7d116cdf9724367
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.postimg.cc/VsJWMPkz/MLIGS2.png" ,LaLiga Hypermotion 2 1080p (3) New Era
 plugin://script.module.horus?action=play&id=f416f36cc1be370e3f9ac29cd6a9acc0d766f7ba
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://i.postimg.cc/k4C2jbWN/MLIGS3.png" ,LaLiga Hypermotion 3 1080p Elcano
-plugin://script.module.horus?action=play&id=1fdb405a6942da0941266f24cdd1c71b11552f1f
+plugin://script.module.horus?action=play&id=7efe62956b1f395161e217df1f438c8bf0d4416b
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://i.postimg.cc/k4C2jbWN/MLIGS3.png" ,LaLiga Hypermotion 3 1080p New Era VI
 plugin://script.module.horus?action=play&id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 #EXTINF:-1 group-title="DEPORTES" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://i.postimg.cc/k4C2jbWN/MLIGS3.png" ,LaLiga Hypermotion 3 1080p New Era
