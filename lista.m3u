@@ -16,6 +16,8 @@ plugin://script.module.horus?action=play&id=b3bdd6ef7f795c4f321a3ce5cf4907338f46
 plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Premier Sports 1" tvg-logo="https://i.postimg.cc/kXvLYbvV/Premier-Sports-1.png" ,Premier Sports 1 (INGLÉS - REINO UNIDO)
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="DEPORTES" tvg-id="UK | Premier Sports 1" tvg-logo="https://i.postimg.cc/kXvLYbvV/Premier-Sports-1.png" ,Premier Sports 1 (INGLÉS - REINO UNIDO 2)
+plugin://script.module.horus?action=play&id=086e4c7ccc0b80e2960a553d04dac1024c7787b9
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Sport TV
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe4
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/wv6D3nbY/MLIG2.png" ,Movistar LaLiga 2 1080p (1) Elcano
